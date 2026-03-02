@@ -33,3 +33,7 @@ $\color{pink}{\textsf{♡}}$
 kool and friendly       
 </a>
 </p>
+<p align="center">
+i hide freely dont take it personal
+</a>
+</p>
