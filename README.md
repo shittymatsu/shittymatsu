@@ -1,37 +1,35 @@
-
 <p align="center">
-    <img src="https://media1.tenor.com/m/SPBjCV8hkhoAAAAC/south-park-south-park-movie.gif">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31omf6qmio63i6odmh6cmocvimue&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
+$\color{white}{\textsf{BL松 DNI}}$
+</a>
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/75d37c8e-e2c6-464a-8ae3-d55a32ba00c1"
-        
-  </a>
+ <img src= "https://64.media.tumblr.com/d6c70de3443d736998099ace1b6b050d/54b7866f978e23d3-0a/s400x600/0438cc7ea1d872a542597354ae6e9a8111219cad.gifv">
+</a>
 </p>
-
 <p align="center">
-    i am Simply just a guy on the internet!
-        
-  </a>
+<img src= "https://64.media.tumblr.com/caa717e22dc0011dc92d930a2fd23e13/e64bf228da7e52bd-8e/s100x200/50b0427a221c052d7c9272fa6b549cc4eb9536c6.pnj">
+<img src= "https://64.media.tumblr.com/90e8837fd97112dc1b8dfb6b0e72cd8f/6de49306af6f4287-8d/s100x200/3c239e0aeaccd61fda705b9a310abeb46f112a56.gifv">
+</a>
 </p>
-
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/c9679c25-7735-4298-8fcd-153748853d9d"
-
-        
-  </a>
+$\color{green}{\textsf{(-`‸-")}}$
+</a>
 </p>
-
 <p align="center">
-    system
-        
-  </a>
+dont be a $\color{red}{\textsf{freak}}$ towards me pleas ok im a human being with boundaries
+</a>
+</p>
+<p align="center">
+$\color{red}{\textsf{♡}}$ 
+$\color{blue}{\textsf{♡}}$
+$\color{yellowgreen}{\textsf{♡}}$
+$\color{purple}{\textsf{♡}}$
+$\color{gold}{\textsf{♡}}$
+$\color{pink}{\textsf{♡}}$
+</a>
+</p>
+<p align="center">
+kool and friendly       
+</a>
 </p>
