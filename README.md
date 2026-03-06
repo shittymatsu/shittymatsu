@@ -37,3 +37,7 @@ kool and friendly
 i hide freely dont take it personal
 </a>
 </p>
+<p align="center">
+$\color{red}{\textsf{ex friends go away}}$ 
+</a>
+</p>
