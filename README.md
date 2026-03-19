@@ -38,6 +38,6 @@ i hide freely dont take it personal
 </a>
 </p>
 <p align="center">
-$\color{red}{\textsf{ex friends go away}}$ 
+$\color{red}{\textsf{ex friends go away & if ur on bad terms wit me dni}}$ 
 </a>
 </p>
